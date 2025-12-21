@@ -1,0 +1,7 @@
+hello 
+this
+is 
+the 
+content
+inside 
+myfile.txt
