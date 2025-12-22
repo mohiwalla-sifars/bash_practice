@@ -13,5 +13,11 @@ else
 	echo "a is even"
 fi
 
+if (($b%2)); then
+	echo "b is odd"
+else
+	echo "b is even"
+fi
+
 
 
